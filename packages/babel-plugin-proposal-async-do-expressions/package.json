@@ -20,9 +20,9 @@
     "babel-plugin"
   ],
   "dependencies": {
-    "@babel/helper-hoist-variables": "workspace:^",
+    "@babel/helper-hoist-variables": "7.0.0",
     "@babel/helper-plugin-utils": "workspace:^",
-    "@babel/plugin-syntax-async-do-expressions": "workspace:^"
+    "@babel/plugin-syntax-async-do-expressions": "7.14.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.13.0"
